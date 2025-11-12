@@ -46,7 +46,7 @@ I'm Alibek Allaberganov, a 2nd-year Computer Science student and Frontend Develo
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,html,css,nodejs,php,python&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,&theme=light" />
   </a>
 </p>
 
