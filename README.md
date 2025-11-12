@@ -1,5 +1,4 @@
-# Hi 👋, I'm Alibek Allaberganov
-
+<h1>Hi 👋, I'm Alibek Allaberganov</h1>
 ### I'm Frontend Developer
 
 - 🔭 I'm currently working on **Mini-Applications**
