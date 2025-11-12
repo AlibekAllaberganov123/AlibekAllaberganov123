@@ -1,79 +1,22 @@
-# Hi, I'm [Sizning Ismingiz] 👋
+# Hi 👋, I'm Alibek Allaberganov
 
-### [Sizning Asosiy Rolingiz] | [Qiziqishlaringiz] | [Texnologiya Ishqibozi]
+### I'm Frontend Developer
 
-Men [Sizning Qisqacha Tanishuvingiz]. Men interaktiv veb-loyihalar yaratish va aqlli yechimlarni o'rganishni yaxshi ko'raman.
+- 🔭 I'm currently working on **Mini-Applications**
 
-> 🛠️ **"Mantiq va nafosat har bir kod satrida mavjud."**
+- 🌱 I'm currently learning **Javascript and React**
 
----
+- 📫 How to reach me **https://www.linkedin.com/in/alibek-allaberganov-903a1b363/**
 
-### 🎨 Vizual Tanishuv
+- 👨‍💻 All of my projects are available at **[https://alibek-web-craft.vercel.app/](https://alibek-web-craft.vercel.app/)**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelJank/MicaelJank/main/assets/coding-illustration.gif" alt="Coding Illustration" width="400" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/AlibekAllaberganov123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AlibekAllaberganov123" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Alibek Allaberganov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alibek Allaberganov" height="30" width="40" /></a>
+<a href="https://instagram.com/a1ibek_allaberganov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a1ibek_allaberganov" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
 
-### 🤝 Aloqa va Ijtimoiy Tarmoqlar
-
-<div align="center">
-
-| | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **Email** | **LinkedIn** | **Instagram** | **Facebook** | **Telegram** | **Portfolio** |
-| [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sizning_email@example.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sizning-profileingiz) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sizning-profileingiz) | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sizning-profileingiz) | [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sizning-profileingiz) | [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=dribbble&logoColor=white)](https://sizning-portfolio.uz) |
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sizning_GitHub_Usernameingiz&style=for-the-badge" alt="Profile views">
-</p>
-
----
-
-### 💻 Texnologiyalarim
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
-
----
-
-### 📊 GitHub Statistikasi
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sizning_GitHub_Usernameingiz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=191919" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Sizning_GitHub_Usernameingiz&theme=dark&hide_border=true&background=191919&stroke=00ff00" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sizning_GitHub_Usernameingiz&layout=compact&theme=dark&hide_border=true&title_color=00ff00&text_color=ffffff&bg_color=191919" alt="Top Languages" />
-</p>
-
----
-
-### 💡 Tasodifiy Dev Iqtibosi
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=191919&quote_color=00ff00&author_color=ffffff" alt="Random Quote" />
-</p>
-
----
-
-<h3 align="center">Thanks for Visiting 👋</h3>
