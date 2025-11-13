@@ -27,7 +27,7 @@ I am Alibek Allaberganov, a student at IT-PARK. I enjoy creating interactive web
 </p>
 
 <p align="center">
-  <a href="https://github.com/Saboo24">
+  <a href="https://github.com/AlibekAllaberganov123">
     <img src="https://komarev.com/ghpvc/?username=Saboo24&color=3a8296&label=Profile%20Views" />
   </a>
   <a href="https://github.com/Saboo24">
