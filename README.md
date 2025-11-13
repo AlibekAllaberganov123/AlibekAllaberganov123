@@ -72,8 +72,19 @@ I am Alibek Allaberganov, a student at IT-PARK. I enjoy creating interactive web
 
 ## 🏆 Top Contributed Repo
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Saboo24&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+# Salom, men Alibek Allaberganov! 👋
 
+<!-- Oddiy Stats (avvalgi) -->
+![Alibek Allaberganov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlibekAllaberganov123&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+<!-- YANGI: Contributor Stats (sizning hissalaringiz bo'yicha) -->
+![Alibek Allaberganov's GitHub Contributor Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlibekAllaberganov123&layout=compact&theme=dark&hide_border=true&title_color=6cc644&text_color=ffffff&bg_color=0d1117)
+
+<!-- Top Langs (tilllar) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlibekAllaberganov123&layout=compact&theme=dark&hide_border=true)
+
+<!-- Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlibekAllaberganov123&theme=dark&hide_border=true)
 ---
 
 ---
