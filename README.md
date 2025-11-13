@@ -63,7 +63,14 @@ I am Alibek Allaberganov, a student at IT-PARK. I enjoy creating interactive web
 
 ### 📊 GitHub Statistics
 
-![Alibek Allaberganov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlibekAllaberganov123&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)---
+![Alibek Allaberganov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlibekAllaberganov123&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+# Salom, men Alibek Allaberganov! 👋
+
+![Alibek Allaberganov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlibekAllaberganov123&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlibekAllaberganov123&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlibekAllaberganov123&theme=dark&hide_border=true)
 
 ### 🧩 Most Used Languages
 
