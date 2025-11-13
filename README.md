@@ -54,7 +54,7 @@ I am Alibek Allaberganov, a student at IT-PARK. I enjoy creating interactive web
 
 ### 📊 GitHub Statistics
 
-![Alibek Allaberganov GitHub stats](https://github-readme-stats.vercel.app/api?username=AlibekAllaberganov123anuraghazra&theme=dark&show_icons=true)
+![Alibek Allaberganov GitHub stats](https://github-readme-stats.vercel.app/api?username=AlibekAllaberganov123&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlibekAllaberganov123&layout=compact&theme=dark&hide_border=true)
 
