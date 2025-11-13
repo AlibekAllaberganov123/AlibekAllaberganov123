@@ -63,7 +63,6 @@ I am Alibek Allaberganov, a student at IT-PARK. I enjoy creating interactive web
 
 ### 📊 GitHub Statistics
 
-![Alibek Allaberganov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlibekAllaberganov123&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 # Salom, men Alibek Allaberganov! 👋
 
 ![Alibek Allaberganov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlibekAllaberganov123&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
@@ -71,12 +70,6 @@ I am Alibek Allaberganov, a student at IT-PARK. I enjoy creating interactive web
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlibekAllaberganov123&layout=compact&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlibekAllaberganov123&theme=dark&hide_border=true)
-
-### 🧩 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saboo24&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
-
----
 
 
 ## 🏆 Top Contributed Repo
